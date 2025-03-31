@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/reset_network"
+            android:title="@string/reset_network" />
+
+        <item
+            android:id="@+id/save_network"
+            android:title="@string/save_network" />
+
+        <item
+            android:id="@+id/show_saved_network"
+            android:title="@string/show_saved_network" />
+
+        <item
+            android:id="@+id/objets"
+            android:title="@string/add_object" />
+
+        <item
+            android:id="@+id/connexions"
+            android:title="@string/add_connection" />
+
+        <item
+            android:id="@+id/objets_connexions"
+            android:title="@string/edit_object_connexion" />
+
+        <item
+            android:id="@+id/choose_french"
+            android:title="@string/french" />
+
+        <item
+            android:id="@+id/choose_english"
+            android:title="@string/english" />
+
+
+
+
+    </group>
+</menu>

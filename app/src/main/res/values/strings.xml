@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name" translatable="false">NetworkKY</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="reset_network">Réinitialiser le réseau</string>
+    <string name="save_network">Sauvegarder le réseau</string>
+    <string name="show_saved_network">Afficher réseau sauvegardé</string>
+
+    <string name="mode_objects_enabled">Mode Objets activé</string>
+    <string name="mode_connections_enabled">Mode Connexions activé</string>
+    <string name="mode_objects_connections_enabled">Mode Objets &amp; Connexions activé</string>
+
+    <string name="add_object">Ajouter Objet</string>
+    <string name="add_connection">Ajouter Connexion</string>
+    <string name="edit_object_connexion">Modification d\’objets/connexions</string>
+    <string name="french">Français</string>
+    <string name="english">Anglais</string>
+
+    <!-- Menu options -->
+    <string name="edit_node">Modifier le nœud</string>
+
+    <string name="edit_label">Modifier l\'étiquette</string>
+    <string name="replace_icon">Changer l\'icône</string>
+    <string name="delete_node">Supprimer</string>
+    <string name="create_node">Créer un nœud</string>
+    <string name="create_connection">Créer une connexion</string>
+    <string name="invalid_name">Nom invalide</string>
+    <string name="choose_color">Choisir une couleur</string>
+    <string name="modify">Modifier</string>
+
+
+    <string name="edit_connection">Modifier la connexion</string>
+
+    <string name="change_color">Changer la couleur</string>
+    <string name="change_thickness">Changer l\'épaisseur</string>
+    <string name="delete_connection">Supprimer la connexion</string>
+    <string name="cancel">Annuler</string>
+
+    <!-- Colors -->
+    <string name="black">Noir</string>
+    <string name="red">Rouge</string>
+    <string name="green">Vert</string>
+    <string name="blue">Bleu</string>
+    <string name="cyan">Cyan</string>
+    <string name="magenta">Magenta</string>
+    <string name="orange">Orange</string>
+
+    <string-array name="color_names">
+        <item>@string/black</item>
+        <item>@string/red</item>
+        <item>@string/green</item>
+        <item>@string/blue</item>
+        <item>@string/cyan</item>
+        <item>@string/magenta</item>
+        <item>@string/orange</item>
+    </string-array>
+
+
+</resources>

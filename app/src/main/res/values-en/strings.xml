@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="reset_network">Reset network</string>
+    <string name="save_network">Save network</string>
+    <string name="show_saved_network">Show saved network</string>
+
+
+    <string name="mode_objects_enabled">mode objects enabled</string>
+    <string name="mode_connections_enabled">mode connections enabled</string>
+    <string name="mode_objects_connections_enabled">mode objects/connections enabled</string>
+
+
+
+    <string name="add_object">Add Object</string>
+    <string name="add_connection">Add Connection</string>
+    <string name="edit_object_connexion">update objects/connections</string>
+    <string name="french">French</string>
+    <string name="english">English</string>
+
+
+    <string name="edit_node">Edit Node</string>
+
+    <string name="edit_label">Edit Label</string>
+
+    <string name="replace_icon">Change Icon</string>
+    <string name="delete_node">Delete</string>
+    <string name="create_node">Create Node</string>
+    <string name="create_connection">Create Connection</string>
+    <string name="invalid_name">Invalid name</string>
+    <string name="choose_color">Choose a color</string>
+
+    <string name="edit_connection">Edit Connection</string>
+    <string name="change_color">Change Color</string>
+    <string name="change_thickness">Change Thickness</string>
+    <string name="delete_connection">Delete Connection</string>
+    <string name="modify">Modify</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="black">Black</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="cyan">Cyan</string>
+    <string name="magenta">Magenta</string>
+    <string name="orange">Orange</string>
+
+
+    <string-array name="color_names">
+        <item>@string/black</item>
+        <item>@string/red</item>
+        <item>@string/green</item>
+        <item>@string/blue</item>
+        <item>@string/cyan</item>
+        <item>@string/magenta</item>
+        <item>@string/orange</item>
+    </string-array>
+</resources>
